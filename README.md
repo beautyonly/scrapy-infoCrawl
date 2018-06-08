@@ -64,7 +64,7 @@ python plot.py
 ```
 Use `wordcloud` to render the key words of papers fetched before
 
-<img width="320" height="480" src="https://raw.githubusercontent.com/rollingstarky/XueshuCrawler/master/xueshu/wordcloud.png"/>
+<img width="320" height="480" src="https://github.com/beautyonly/scrapy-infoCrawl/blob/master/xueshu/wordcloud.png"/>
 
 
 
